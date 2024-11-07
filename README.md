@@ -173,5 +173,3 @@ To test the API, you can use Postman, Insomnia, or any HTTP client of your choic
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-Simpan file ini sebagai `README.md` di direktori proyek Anda. Ini memberikan informasi lengkap tentang bagaimana mengatur, menjalankan, dan menguji API Flask Anda, serta informasi tentang lisensi proyek.
