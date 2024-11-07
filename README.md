@@ -1,5 +1,3 @@
-Berikut adalah contoh file `README.md` dalam format kode yang dapat Anda gunakan dalam proyek Anda:
-
 ```markdown
 # Flask RESTful API with SQLAlchemy
 
